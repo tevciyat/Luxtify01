@@ -25,7 +25,7 @@
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
     "discord.js": "^12.5.1",
-    "dotenv": "^8.2.0",
+    "dotenv": "^15.0.0",
     "express": "^4.17.1",
     "node-opus": "^0.3.3",
     "opusscript": "^0.0.8",
